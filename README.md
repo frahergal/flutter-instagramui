@@ -1,4 +1,4 @@
-# intalagramui
+# flutter-instagramui
 
 An excercise to build the instagram profile UI.
 
